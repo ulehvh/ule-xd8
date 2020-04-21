@@ -1,0 +1,12 @@
+﻿  onPaint.cpp
+  sceneEnd.cpp
+  main.cpp
+  player_hurt.cpp
+  Visuals.cpp
+  setup.cpp
+  Generating code
+  63 of 3895 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    54 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csgo-internal.vcxproj -> C:\Users\luang\OneDrive\Documentos\GitHub\EXPOSUREV2\Stable\Pener SDK.dll
